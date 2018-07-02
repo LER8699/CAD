@@ -1,0 +1,40 @@
+12/13/16 robot parts buy rev c (added “Usage” column),,,,,,,
+,,,,,,,
+ITEM,SOURCE,PART NO.,PRICE,QUANTITY,EXT. PRICE,,USAGE
+FTC Robot parts required  12/13/16,,,,,,,
+,,,,,,,
+tetrixrobotics.com,,,,,,,
+Rack and Pinion Linear Slide Pack,Tetrix,W39300,$19.95,3,$59.85,,"beacons pressors, pick-up"
+motor hub (pk 2),Tetrix,W39079,$5.95,4,$23.80,$83.65,Only 2 in stock
+,,,,,,,
+mcmaster.com,,,,,,,
+latex tubing 3/16id 3/8od,Mcmaster-carr,5234K251,$1.20,25,$30.00,,plan b launcher
+1/4-20 x 3” sock hd cap scr,Mcmaster-carr,90044A129,$14.20,1,$14.20,,shooter jack screw
+compression spring 2” (pkg of 6),Mcmaster-carr,9657K382,$5.73,1,$5.73,,shooter tension
+Alu ¼ x 2 x 12,Mcmaster-carr,8975K71,$4.42,1,$4.42,,jack screw plate mount
+Alu ¼ x 3 x 12,Mcmaster-carr,8975K87,$17.32,1,$17.32,,jack screw plate
+Alu ¼ x 2 x 12,Mcmaster-carr,8975K71,$4.42,1,$4.42,,shooter spring cage
+Alu 3/8 x 1 x 12,Mcmaster-carr,8975K54,$3.33,2,$6.66,,shooter pivot
+Alu 3/8 x 2 x 12,Mcmaster-carr,8975K59,$7.00,2,$14.00,,shooter spring cage
+Alu .190 x 18 x 18”,Mcmaster-carr,89015K284,$73.36,1,$73.36,$170.11,base plate
+,,,,,,,
+AndyMark.com,,,,,,,
+Neverest 3.7 motor,AndyMark,am-2964a,$28.00,2,$56.00,,shooter wheels
+Encoder Cable with 4-pin Conn,AndyMark,am-2992,$5.00,2,$10.00,,replacement for modified cables
+REV linear motion kit,AndyMark,am-3246,$20.00,2,$40.00,$106.00,linear slide
+,,,,,,,
+Adafruit.com,,,,,,,
+TCA9548A i2c multiplexor,Adafruit,2717,$6.95,2,$13.90,$13.90,allows hookup of static i2c adx's
+,,,,,,,
+modernroboticsinc.com,,,,,,,
+phone mount,Modern Robotics,50-1104,$6.95,2,$13.90,,mounts phone
+core power distribution mod,Modern Robotics,AUP3010 ,$89.95,1,$89.95,,allows3rd robot
+core motor controller,Modern Robotics,AUS3015 ,$69.95,2,$139.90,,allows3rd robot
+core servo controller,Modern Robotics,AUS3015 ,$69.95,1,$69.95,,allows3rd robot
+core device controller,Modern Robotics,AUA3030,$67.95,1,$67.95,,allows3rd robot
+Sensor Pigtail Kit,Modern Robotics,50-1004,$6.95,2,$13.90,$395.55,for color sensors
+,,,,,,,
+digikey.com,,,,,,,
+USB A-male to mini B male,Digikey,AE1450-ND,$2.32,8,$18.56,$18.56,possible fix for usb errors
+,,,,,,,
+,,,,TOTAL:,$787.77,,
